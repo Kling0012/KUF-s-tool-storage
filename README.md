@@ -1,2 +1,2 @@
-# KUF‘s program powered by colab
+# KUF‘s programs powered by colab
 
